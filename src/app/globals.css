@@ -34,8 +34,44 @@ section {
   font-weight: 800;
   font-size: 64px;
   text-align: center;
+  padding-top: 120px;
 }
 
 .sec-1 {
   background: linear-gradient(rgb(43, 8, 131), rgb(0, 81, 255));
+}
+
+.div-1 {
+
+}
+
+.para-1 {
+  font-size: 32px;
+  font-weight: 600;
+  text-align: center;
+  padding-top: 120px;
+}
+
+.masonry-object-1 {
+  background-color: white;
+  border-radius: 10px;
+  padding: 10px;
+  margin: 10px;
+  transition: 0.3s;
+}
+
+.masonry-object-1:hover {
+  padding: 5px;
+  cursor: pointer;
+}
+
+.masonry-container-1 {
+  width: 100%;
+  margin: 30px;
+  display: flex;
+}
+
+.list-1 {
+  padding: 100px;
+  font-size: larger;
 }
