@@ -2,9 +2,6 @@
 
 import Image from 'next/image';
 import { Parallax, ParallaxProvider, ParallaxBanner } from 'react-scroll-parallax';
-import * as Purdy from '@/../public/purdy-1.png'
-import * as Levis from '@/../public/levis.jpeg'
-import * as BG from '@/../public/49ers.jpeg'
 import './globals.css'
 
 export default function Home() {
