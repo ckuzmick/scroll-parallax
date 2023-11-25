@@ -25,3 +25,17 @@ body {
     )
     rgb(var(--background-start-rgb));
 }
+
+section {
+  overflow: hidden;
+}
+
+.title-1 {
+  font-weight: 800;
+  font-size: 64px;
+  text-align: center;
+}
+
+.sec-1 {
+  background: linear-gradient(rgb(43, 8, 131), rgb(0, 81, 255));
+}
